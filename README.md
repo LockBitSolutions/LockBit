@@ -40,8 +40,8 @@ Bem-vindo ao repositório da nossa empresa de segurança da informação! Nosso 
 
 Ficou interessado? Entre em contato para saber mais:
 
-- Email: contato@seginfo.com
-- LinkedIn: EmpresaSegInfo
-- Site: www.seginfo.com
+- Email: contato@lockbit.com
+- LinkedIn: LockBit Solutions
+- Site: www.lockbit.com
 
 🛡️ Proteja sua empresa antes que seja tarde! Vamos juntos fortalecer a sua segurança digital. 🔐
