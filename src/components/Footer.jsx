@@ -1,16 +1,18 @@
 import styles from "../style";
-import { logo } from "../assets";
+import { logo, lockBit } from "../assets";
 import { footerLinks, socialMedia } from "../constants";
 
 const Footer = () => (
   <section className={`${styles.flexCenter} ${styles.paddingY} flex-col`}>
     <div className={`${styles.flexStart} md:flex-row flex-col mb-8 w-full`}>
       <div className="flex-[1] flex flex-col justify-start mr-10">
-        <img
-          src={logo}
-          alt="hoobank"
-          className="w-[266px] h-[72.14px] object-contain"
-        />
+        <div className="flex items-center">
+          <img src={lockBit} alt="LockBit" className="w-[180px] h-[180px]" />
+          <div className="flex flex-col ml-2">
+            <h1 className="text-gradient font-poppins font-bold text-[rgb(245,198,38)] text-[32px] tracking-wide drop-shadow-[0_1.2px_1.2px_rgba(0,0,0,0.5)]">LockBit</h1>
+            <h1 className="font-poppins font-bold text-[rgb(255,255,255)] text-[32px] tracking-wide drop-shadow-[0_1.2px_1.2px_rgba(0,0,0,0.5)]">Solutions</h1>
+          </div>
+        </div>
         <p className={`${styles.paragraph} mt-4 max-w-[312px]`}>
           A new way to make the payments easy, reliable and secure.
         </p>

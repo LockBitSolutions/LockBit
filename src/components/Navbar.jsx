@@ -11,7 +11,10 @@ const Navbar = () => {
     <nav className="w-full flex py-6 justify-between items-center navbar">
       <div className="flex items-center">
         <img src={lockBit} alt="LockBit" className="w-[180px] h-[180px]" />
-        <h1 className="font-poppins font-semibold text-white text-[24px] ml-2">LockBit Solutions</h1>
+        <div className="flex flex-col ml-2">
+          <h1 className="text-gradient font-poppins font-bold text-[rgb(245,198,38)] text-[32px] tracking-wide drop-shadow-[0_1.2px_1.2px_rgba(0,0,0,0.5)]">LockBit</h1>
+          <h1 className="font-poppins font-bold text-[rgb(255,255,255)] text-[32px] tracking-wide drop-shadow-[0_1.2px_1.2px_rgba(0,0,0,0.5)]">Solutions</h1>
+        </div>
       </div>
 
       <ul className="list-none sm:flex hidden justify-end items-center flex-1">
