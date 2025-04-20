@@ -24,8 +24,15 @@ import twitter from "./twitter.svg";
 import people01 from "./people01.png";
 import people02 from "./people02.png";
 import people03 from "./people03.png";
+import hero from "./Fingerprint-bro.png";
+import girl from "./Authentication-rafiki.png";
+import security from "./Security-bro.png";
+
 
 export {
+  hero,
+  security,
+  girl,
   airbnb,
   bill,
   binance,
