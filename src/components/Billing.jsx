@@ -14,13 +14,12 @@ const Billing = () => (
 
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-        Easily control your <br className="sm:block hidden" /> billing &
-        invoicing
+      Testes de Segurança <br className="sm:block hidden" /> &
+       Auditoria
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Elit enim sed massa etiam. Mauris eu adipiscing ultrices ametodio
-        aenean neque. Fusce ipsum orci rhoncus aliporttitor integer platea
-        placerat.
+      Simulamos ataques reais (ethical hacking) para testar os limites
+       da sua proteção e evitar que criminosos façam isso primeiro.
       </p>
 
       <div className="flex flex-row flex-wrap sm:mt-10 mt-6">

@@ -6,12 +6,13 @@ const CardDeal = () => (
   <section className={layout.section}>
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-        Find a better card deal <br className="sm:block hidden" /> in few easy
-        steps.
+      Relatórios Técnicos <br className="sm:block hidden" /> e Planos de Ação.
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Arcu tortor, purus in mattis at sed integer faucibus. Aliquet quis
-        aliquet eget mauris tortor.ç Aliquet ultrices ac, ametau.
+      Transformamos dados complexos em insights claros e acionáveis para sua equipe técnica e liderança.
+      relatórios executivos e técnicos personalizados
+      plano de ação com prioridades, prazos e orientações de correção
+      apoio à tomada de decisões estratégicas em segurança
       </p>
 
       <Button styles={`mt-10`} />

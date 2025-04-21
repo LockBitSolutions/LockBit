@@ -25,21 +25,21 @@ export const features = [
     icon: star,
     title: "Rewards",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "Levantamento de riscos em redes, servidores, aplicações e políticas internas",
   },
   {
     id: "feature-2",
     icon: shield,
     title: "100% Secured",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      "Diagnóstico técnico com base em frameworks como OWASP, NIST e MITRE ATT&CK.",
   },
   {
     id: "feature-3",
     icon: send,
     title: "Balance Transfer",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "Avaliação de maturidade da segurança organizacional e recomendações de melhorias.",
   },
 ];
 
