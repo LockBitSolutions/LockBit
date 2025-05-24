@@ -10,9 +10,9 @@ const Navbar = () => {
   return (
     <nav className="w-full flex py-6 justify-between items-center navbar">
       <div className="flex items-center">
-        <img src={lockBit} alt="LockBit" className="w-[180px] h-[180px]" />
+        <img src={lockBit} alt="LockBit" className="w-[140px] h-[175px] drop-shadow-lg" />
         <div className="flex flex-col ml-2">
-          <h1 className="text-gradient font-poppins font-bold text-[rgb(245,198,38)] text-[32px] tracking-wide drop-shadow-[0_1.2px_1.2px_rgba(0,0,0,0.5)]">LockBit</h1>
+          <h1 className="text-gradient font-poppins font-bold text-[rgb(248, 122, 0)] text-[32px] tracking-wide drop-shadow-[0_1.2px_1.2px_rgba(0,0,0,0.5)]">LockBit</h1>
           <h1 className="font-poppins font-bold text-[rgb(255,255,255)] text-[32px] tracking-wide drop-shadow-[0_1.2px_1.2px_rgba(0,0,0,0.5)]">Solutions</h1>
         </div>
       </div>
